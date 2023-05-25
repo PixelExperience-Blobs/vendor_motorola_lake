@@ -482,7 +482,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lake/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0-impl.so \
     vendor/motorola/lake/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0.so \
     vendor/motorola/lake/proprietary/vendor/lib/motorola.hardware.audio.adspd@1.0_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/motorola.hardware.audio.adspd@1.0_vendor.so \
-    vendor/motorola/lake/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/motorola/lake/proprietary/vendor/lib/soundfx/libmmieffectswrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmmieffectswrapper.so \
     vendor/motorola/lake/proprietary/vendor/lib/soundfx/libspeakerbundle.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libspeakerbundle.so \
     vendor/motorola/lake/proprietary/vendor/lib/soundfx/libswdap_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap_ds1se.so \
@@ -522,7 +521,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/lake/proprietary/vendor/lib64/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinycompress.so \
     vendor/motorola/lake/proprietary/vendor/lib64/motorola.hardware.audio.adspd@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motorola.hardware.audio.adspd@1.0-impl.so \
     vendor/motorola/lake/proprietary/vendor/lib64/motorola.hardware.audio.adspd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/motorola.hardware.audio.adspd@1.0.so \
-    vendor/motorola/lake/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
     vendor/motorola/lake/proprietary/vendor/lib64/soundfx/libswdap_ds1se.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap_ds1se.so \
     vendor/motorola/lake/proprietary/vendor/lib64/vendor.dolby.hardware.dms@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@1.0-impl.so \
     vendor/motorola/lake/proprietary/vendor/lib64/vendor.dolby.hardware.dms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@1.0.so \
